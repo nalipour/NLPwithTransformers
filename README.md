@@ -1,5 +1,5 @@
 # NLPwithTransformers
 Use Transformers for different NLP applications
 
-To start, first install :hugging: transformers:
+:white_check_mark: install HuggingFace transformers :hugs: :
 `pip install transformers`
