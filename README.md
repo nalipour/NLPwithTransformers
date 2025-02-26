@@ -1,4 +1,4 @@
-# NLPwithTransformers
+# NLP with Transformers
 Use Transformers for different NLP applications, based on the book :parrot:
 
 "Natural Language Processing with Transformers -
