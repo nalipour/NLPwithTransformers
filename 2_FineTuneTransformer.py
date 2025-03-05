@@ -88,3 +88,5 @@ plot_confusion_matrix(y_preds, y_valid, labels)
 
 model.save_pretrained("./fine_tuned_bert")
 tokenizer.save_pretrained("./fine_tuned_bert")
+
+# %%
